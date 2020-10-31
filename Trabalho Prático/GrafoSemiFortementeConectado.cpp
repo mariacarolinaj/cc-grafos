@@ -62,8 +62,8 @@ int main(void)
 
     int n, m, vertice1, vertice2;
 
-    cin >> n; // qtd vertices
-    cin >> m; // qtd arestas
+    cin >> n; 
+    cin >> m;
 
     Grafo grafo(n);
 
